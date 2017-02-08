@@ -5,11 +5,12 @@ I plan to re-release this software as open source once it's developed enough tha
 
 These features are currently implemented:
 * Ability to change tempo in increments of 1
-
-These features are soon to be implemented:
 * Ability to change amount of beats per measure (4 by default)
 
-These features are in planning:
+These features are soon to be implemented:
 * Tone generator
+
+These features are in planning:
+* More tempo controls
 
 For an example of this program in a regular HTML page, see the sample_implementation.html file.
