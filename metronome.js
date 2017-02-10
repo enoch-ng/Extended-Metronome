@@ -71,7 +71,7 @@ function metronome() {
 		low: new Sound('click_low.wav')
 	};
 
-	var canvas = document.getElementById('metronome');
+	var canvas = document.getElementById('metronome-canvas');
 	
 	if (canvas.getContext) {
 		var context = canvas.getContext('2d');
