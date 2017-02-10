@@ -4,7 +4,7 @@ A relatively full-featured online metronome written in JavaScript, to be used wi
 I plan to re-release this software as open source once it's developed enough that anyone would actually want to use it. (Of course you can download and reuse the source code from GitHub, but I'd prefer you not until I get the licensing figured out.)
 
 These features are currently implemented:
-* Ability to change tempo in increments of 1
+* Ability to change tempo in increments of 4 (120 by default)
 * Ability to change amount of beats per measure (4 by default)
 
 These features are soon to be implemented:
@@ -12,5 +12,8 @@ These features are soon to be implemented:
 
 These features are in planning:
 * More tempo controls
+* Automated tempo changes
+* Persistent preferences for default values
+* ... and much more!
 
 For an example of this program in a regular HTML page, see the sample_implementation.html file.
